@@ -46,6 +46,7 @@
 ### ☕ Java
 | 표지 | 구분 | 제목 | 간략후기 | 진도 | 비고 |
 |-------|-------|-------|-------|-------|-------|
+| <img src="https://github.com/fsm12/Dev-Book/assets/74345771/1053bd17-8ceb-4370-bccb-bc198f462f26" width=60 height=78> | <div align="center">책</div> | <div align="center">이펙티브 자바</div> | <div align="center">-</div> | <div align="center"> ~ </div> | <div align="center">-</div> |
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/bc86ac86-a834-4c4d-858e-c2f6bafcf429" width=60 height=78> | <div align="center">책</div> | <div align="center">모던 자바 인 액션</div> | <div align="center">-</div> | <div align="center"> ~ </div> | <div align="center">-</div> |
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/839708c1-2988-4782-b83c-81ce7b1a39a4" width=60 height=78> | <div align="center">책</div> | <div align="center">자바 웹 프로그래밍 Next-Step</div> | <div align="center">-</div> | <div align="center">~</div> | <div align="center">-</div> |
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/40e9fabd-a55f-49b8-9f7e-17d2893e6778" width=60 height=78> | <div align="center">책</div> | <div align="center">오브젝트</div> | <div align="center">-</div> | <div align="center">~</div> | <div align="center">-</div> |
@@ -69,8 +70,8 @@
 ### 📝 Etc
 | 분류 | 구분 | 표지 | 제목 | 간략후기 | 진도 | 비고 |
 |-------|-------|-------|-------|-------|-------|-------|
-| <div align="center">분류</div> | <div align="center">책</div> | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/7d9be59a-5c81-4512-ad4d-9c485eaefa06" width=60 height=78> | <div align="center">Clean Code(클린 코드)</div> | <div align="center">-</div> | <div align="center"> ~ </div> | <div align="center">-</div> |
-| <div align="center">분류</div> | <div align="center">책</div> | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/0c0e9f3b-b275-49a3-9452-99b4b4dcd35b" width=60 height=78> | <div align="center">소프트웨어 장인</div> | <div align="center">-</div> | <div align="center"> ~ </div> | <div align="center">-</div> |
+| <div align="center">클린코드</div> | <div align="center">책</div> | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/7d9be59a-5c81-4512-ad4d-9c485eaefa06" width=60 height=78> | <div align="center">Clean Code(클린 코드)</div> | <div align="center">-</div> | <div align="center"> ~ </div> | <div align="center">-</div> |
+| <div align="center">자기계발</div> | <div align="center">책</div> | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/0c0e9f3b-b275-49a3-9452-99b4b4dcd35b" width=60 height=78> | <div align="center">소프트웨어 장인</div> | <div align="center">-</div> | <div align="center"> ~ </div> | <div align="center">-</div> |
 | <div align="center">문서작성</div> | <div align="center">책</div>| <img src="https://github.com/fsm12/Dev-Book/assets/74345771/78050048-7c26-4f36-8892-4e223707f744" width=60 height=78> | <div align="center">Docs for Developers 기술 문서 작성 완벽 가이드</div> | <div align="center">-</div> | <div align="center"> ~ </div> | <div align="center">-</div> |
 
 </br>
