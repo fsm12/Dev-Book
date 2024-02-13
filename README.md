@@ -13,17 +13,29 @@
 </br>
 
 ### 📄 컨벤션
-- 커밋 : `커밋컨벤션[#이슈번호]: 제목; 상세내용`
+***커밋***
+``` markdown
+커밋컨벤션[#이슈번호]: 파일명.확장자; 상세내용
+```
 
 |타입|설명|
 |-------|--------|
-|<div align="center">Add</div>|새로운 프로젝트, 파일 등 추가|
-|<div align="center">Feat</div>|새로운 기능 추가| 
-|<div align="center">Fix</div>|버그 수정|
-|<div align="center">Docs</div>|문서 수정|
-|<div align="center">Refactor</div>|코드 리팩토링|
-|<div align="center">Remove</div>|사용하지 않는 파일 또는 폴더 삭제|
-|<div align="center">Rename</div>|파일 또는 폴더명 수정|
+|<div align="center">**Add**</div>|새로운 파일 등 추가|
+|<div align="center">**Feat**</div>|새로운 기능 추가 -> 후에 웹사이트 구축 시 이용| 
+|<div align="center">**Fix**</div>|버그 수정|
+|<div align="center">**Docs**</div>|문서 수정|
+|<div align="center">**Refactor**</div>|코드 리팩토링|
+|<div align="center">**Remove**</div>|사용하지 않는 파일 또는 폴더 삭제|
+|<div align="center">**Rename**</div>|파일 또는 폴더명 수정|
+|<div align="center">**Move**</div>|폴더 및 파일 이동|
+
+</br>
+
+***예시***
+``` markdown
+Docs[#1]: README.md; ~~책 추가
+Move[#1]: Computer Architecture.md; 컴퓨터 구조 폴더로 이동
+```
 
 </br></br>
 
