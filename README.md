@@ -52,6 +52,7 @@ Move[#1]: Computer Architecture.md; 컴퓨터 구조 폴더로 이동
 | 데이터베이스 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/63238ddd-5cc4-43cd-b81c-5df38601e657" width=60 height=78> | 데이터 중심 애플리케이션 설계 | - |  ~  | - |
 | 디자인 패턴 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/a29c9457-1102-4173-b5cb-ed9b009e8885" width=60 height=78> | 헤드 퍼스트 디자인 패턴 | - | 2022.11 | - |
 | CS | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/36ddee99-e08e-43ac-8161-89b650fa1ac5" width=60 height=78> | 면접을 위한 CS 전공지식 노트 | - |  ~  | - |
+| CS | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/af3904d3-c39f-444c-b7a7-99fa4a6f818f" width=60 height=78> | 기술 면접 대비 CS전공 핵심요약집 | - |  ~  | - |
 | 대규모 시스템 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/22069a1f-68ee-43e2-b909-8526de628f4c" width=60 height=78> | 가상 면접 사례로 배우는</br>대규모 시스템 설계 기초 | - |  ~  | - |
 
 </br>
