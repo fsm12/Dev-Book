@@ -51,8 +51,8 @@ Move[#1]: Computer Architecture.md; 컴퓨터 구조 폴더로 이동
 | 네트워크 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/5aadeea3-f946-4a06-bcc2-7a432206965c" width=60 height=78> | 컴퓨터 네트워킹 하향식 접근 | - |  ~  | - |
 | 데이터베이스 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/63238ddd-5cc4-43cd-b81c-5df38601e657" width=60 height=78> | 데이터 중심 애플리케이션 설계 | - |  ~  | - |
 | 디자인 패턴 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/a29c9457-1102-4173-b5cb-ed9b009e8885" width=60 height=78> | 헤드 퍼스트 디자인 패턴 | - | 2022.11 | - |
-| CS | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/36ddee99-e08e-43ac-8161-89b650fa1ac5" width=60 height=78> | 면접을 위한 CS 전공지식 노트 | - |  ~  | - |
-| CS | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/af3904d3-c39f-444c-b7a7-99fa4a6f818f" width=60 height=78> | 기술 면접 대비 CS전공 핵심요약집 | - |  ~  | - |
+| CS | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/36ddee99-e08e-43ac-8161-89b650fa1ac5" width=60 height=78> | 면접을 위한 CS 전공지식 노트 | - |  ~  | [1~2장](https://thebook.io/080326/) |
+| CS | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/af3904d3-c39f-444c-b7a7-99fa4a6f818f" width=60 height=78> | 기술 면접 대비 CS전공 핵심요약집 | - |  ~  | [1장](https://thebook.io/080367/) |
 | 대규모 시스템 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/22069a1f-68ee-43e2-b909-8526de628f4c" width=60 height=78> | 가상 면접 사례로 배우는</br>대규모 시스템 설계 기초 | - |  ~  | - |
 
 </br>
@@ -60,6 +60,7 @@ Move[#1]: Computer Architecture.md; 컴퓨터 구조 폴더로 이동
 ### ☕ Java
 | 표지 | 구분 | 제목 | 간략소개 | 진도 | 비고 |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| <img src="https://github.com/fsm12/Dev-Book/assets/74345771/c4ec0cbe-7278-49e3-869a-54bf84f73352" width=60 height=78> | 책 | 취업과 이직을 위한 프로그래머스</br>코딩 테스트 문제 풀이 전략: 자바 편 | - |  ~  | [2~5장](https://thebook.io/080337/) |
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/871a1c8b-07c2-4980-8b50-845f8d13788f" width=60 height=78> | 책 | 이것이 자바다(개정판) | - |  ~  | - |
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/1053bd17-8ceb-4370-bccb-bc198f462f26" width=60 height=78> | 책 | 이펙티브 자바 | - |  ~  | - |
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/bc86ac86-a834-4c4d-858e-c2f6bafcf429" width=60 height=78> | 책 | 모던 자바 인 액션 | - | 2024.02 | - |
@@ -91,6 +92,7 @@ Move[#1]: Computer Architecture.md; 컴퓨터 구조 폴더로 이동
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/fda12130-3c0c-470a-9d0a-de53291ad1df" width=60 height=78> | 책  | 소프트웨어 아키텍처 101 | 전체 아키텍쳐의 흐름 |  ~  | - |
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/13681ee7-cee4-4e9e-b548-00651a01aaef" width=60 height=78> | 책  | 소프트웨어 아키텍처 The Hard Parts | 좋은 소프트웨어 아키텍처를 설계하는 방법을</br>예시와 함께 설명 |  ~  | - |
 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/0de2dcfd-e48c-4760-845b-43a3319a61eb" width=60 height=78> | 책  | 만들면서 배우는 클린 아키텍처 | 예제 포함 |  ~  | - |
+| <img src="https://github.com/fsm12/Dev-Book/assets/74345771/5a201f6a-4a50-426f-b798-b1822328b98f" width=60 height=78> | 책  | 컨테이너 인프라 환경 구축을 위한</br>쿠버네티스/도커 | - |  ~  | [1~3장](https://thebook.io/080241/) |
 </br>
 
 ### 📝 Etc
@@ -98,8 +100,9 @@ Move[#1]: Computer Architecture.md; 컴퓨터 구조 폴더로 이동
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | 문서작성 | 책| <img src="https://github.com/fsm12/Dev-Book/assets/74345771/78050048-7c26-4f36-8892-4e223707f744" width=60 height=78> | Docs for Developers</br>기술 문서 작성 완벽 가이드 | - |  ~  | - |
 | 협업 | 책| <img src="https://github.com/fsm12/Dev-Book/assets/74345771/f7739d70-9ee5-4798-8b78-11306c359805" width=60 height=78> | 팀 개발을 위한 Git, GitHub 시작하기 | - |  ~  | - |
+| 협업 | 책| <img src="https://github.com/fsm12/Dev-Book/assets/74345771/ae7f2cce-6748-4bf1-bb79-0785684647c5" width=60 height=78> | Git 교과서 | - |  ~  | [전체](https://thebook.io/080212/) |
 | 협업 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/7d9be59a-5c81-4512-ad4d-9c485eaefa06" width=60 height=78> | Clean Code(클린 코드) | - |  ~  | - |
-| 자기계발 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/0c0e9f3b-b275-49a3-9452-99b4b4dcd35b" width=60 height=78> | 소프트웨어 장인 | - |  ~  | - |
+| 자기계발 | 책 | <img src="https://github.com/fsm12/Dev-Book/assets/74345771/0c0e9f3b-b275-49a3-9452-99b4b4dcd35b" width=60 height=78> | 소프트웨어 장인 | - |  ~  | [1~4장](https://thebook.io/006777/) |
 
 </br>
 
