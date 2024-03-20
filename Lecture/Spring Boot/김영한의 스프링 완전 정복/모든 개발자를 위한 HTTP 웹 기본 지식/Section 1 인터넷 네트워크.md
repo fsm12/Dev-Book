@@ -42,15 +42,15 @@ IP 프로토콜로 모든 노드에 **IP 주소**를 부여함
 <img src="https://github.com/fsm12/Dev-Book/assets/74345771/0425bde3-5583-4e86-bf5a-fb180ba2db71" width=1000px alt ="계층별 패킷 전달 예시 ">
 
 ### TCP의 특징
-- 연결지향 O : TCP 3-way handshaking을 통한 가상연결
-- 데이터 전달 보증 O : 잘 받았다는 응답을 전함
-- 순서 보장 O : 후에 받아야할 패킷이 먼저 도착할 경우 폐기하고 다음 순서인 패킷을 보내달라 요청함
+- **연결지향 O** : TCP 3-way handshaking을 통한 가상연결
+- **데이터 전달 보증 O** : 잘 받았다는 응답을 전함
+- **순서 보장 O** : 후에 받아야할 패킷이 먼저 도착할 경우 폐기하고 다음 순서인 패킷을 보내달라 요청함
 
 => 신뢰할 수 있는 프로토콜로 현재는 대부분 TCP를 사용함
 
 |분류|연결|해제|
 |:--:|:--:|:--:|
-|명명|TCP 3-way handshaking|TCP 4-way handshaking|
+|명명|**TCP 3-way handshaking**|**TCP 4-way handshaking**|
 |흐름|<img src="https://github.com/fsm12/Dev-Book/assets/74345771/9d8cc0f4-4e59-4787-b2b7-a8d82a0f5292" width=430px alt ="TCP 3-way handshaking">|<img src="https://github.com/fsm12/Dev-Book/assets/74345771/b4a11535-92bd-424e-97a8-2664132cb403" width=430px alt ="TCP 4-way handshaking">|
 |1|클라이언트나 서버 중 하나가 다른 쪽에</br>"동기화" 또는 SYN 플래그를 보내 연결 설정 시작</br>(연결을 생성하기 위해</br>클라이언트의 초기 시퀀스 번호가 서버로 전송됨)|연결의 한쪽(클라이언트 또는 서버)에서</br>FIN 플래그가 연결 종료 요청으로 전송| 
 |2|SYN 플래그에 대한 응답으로</br>TCP 서버는 연결 설정을 위한 초기 시퀀스 번호와 함께</br>"승인" 또는 ACK 플래그를 보냄|FIN 플래그를 받은 사람이 상대방에게</br>닫기 요청에 대한 승인으로 ACK 플래그를 보냄| 
@@ -69,11 +69,21 @@ IP 프로토콜로 모든 노드에 **IP 주소**를 부여함
 </br></br>
 
 ## PORT
-
+|분류|IP|PORT|
+|:--:|:--:|:--:|
+|정의|다른 장치가 네트워크에서 이를 식별하는 데 사용되는</br>당사 네트워크 하드웨어의 논리적 주소|컴퓨터 네트워킹에서 메시지의 발신자와 수신자를 식별하는 데 사용되는 주소 지정 정보의 일부|
+|사용목적|어느 네트워크의 어느 호스트라는 것을 식별하는 데 사용되는 인터넷 프로토콜 주소|같은 IP 내에서 시스템의 프로세스/서비스를 식별|
+|비유|아파트 주소|같은 아파트 내 주소|
+|체계|IPv4 : 0.0.0.0 ~ 255.255.255.255 (32 bit)  |0 ~ 65535 할당 가능</br>0 ~ 1023: 잘 알려진 포트, 사용하지 않는 것이 좋음</br>FTP - 20, 21</br>TELNET - 23</br>**HTTP - 80**</br>**HTTPS - 443**|
+|제공|시스템 관리자 또는 네트워크 관리자가 제공|응용프로그램용 포트 번호는 운영 체제의 커널에서 제공|
 
 </br></br>
 
-## DNS
+## DNS(Domain Name System)
+URL들의 이름과 IP주소를 저장하고 있는 데이터베이스로, 웹사이트를 위한 주소록
 
+IP는 기억하기 어렵고 변경될 수 있다는 특징이 있기 때문에 DNS로 이를 막을 수 있음
+
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230731154431/How-DNS-Works-gif-(1).gif" width=500px alt="DNS의 동작과정">
 
 </br>
